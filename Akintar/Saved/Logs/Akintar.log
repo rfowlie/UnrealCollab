@@ -1216,3 +1216,9 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.10.09-06.06.26:752][815]AssetCheck: New page: Asset Save: multiple assets
 [2020.10.09-06.06.26:752][815]LogContentValidation: Display: Validating World /Game/Art/Akintar_David.Akintar_David
 [2020.10.09-06.06.26:752][815]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Art/Akintar_David_BuiltData.Akintar_David_BuiltData
+[2020.10.09-06.08.56:376][609]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2020.10.09-06.08.56:376][609]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.09-06.09.13:598][ 42]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.10.09-06.09.13:598][ 42]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.10.09-06.09.13:598][ 42]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.09-06.09.16:238][108]LogSlate: Took 0.000225 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
